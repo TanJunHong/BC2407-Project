@@ -1,4 +1,4 @@
-# BC2407-Project
+# BC2407 Project
 In this project, we analysed police misconduct in the United States of America.
 
 Using data from police databases and Kaggle, we used logisitic regression, multivariate adaptive regression spline, along with studies done by experts to identify the root causes of police misconduct.
